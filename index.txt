@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<title>LANDAS SPRING & SUMMER STYLE LOOK BOOK </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="imgtoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1">
+<!--<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />-->
+<meta name="viewport" content="width = 1050, user-scalable = no" />
+<link rel="stylesheet" type="text/css" href="css/magazine.css" />
+<script type="text/javascript" src="js/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="js/modernizr.2.5.3.min.js"></script>
+<script type="text/javascript" src="js/hash.js"></script>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+</head>
+<body>
+
+<div id="canvas">
+
+	<div class="head_navi">
+		<a href="javascript:;"></a>
+		<div class="center_navi">
+			<a href="javascript:;" class="first"></a>
+			<a href="javascript:;" class="prev"></a>
+			<input type="text" name="topage" id="topage" value="1" class="topage">
+			<a href="javascript:;" class="gotopage"></a>
+			<a href="javascript:;" class="next"></a>
+			<a href="javascript:;" class="last"></a>
+		</div>
+		<div class="right_navi">
+			<a href="javascript:;" class="btn_all">확대</a>
+			<div class="btn_wrap">
+			</div>
+			<a href="https://drive.google.com/drive/u/0/folders/1Se_GuIQuQ2hAiM_YHMgk2nc8QhLNut-s" 
+                       class="btn_d" target='_blank'>다운</a>
+		</div>
+	</div>
+
+	<div class="magazine-viewport" style="background:#fff;">
+		<div class="container">
+			<div class="magazine">
+		<div style="background-image:url(pages/01.jpg)" class="item"></div>
+<div style="background-image:url(pages/02.jpg)" class="item"></div>
+<div style="background-image:url(pages/03.jpg)" class="item"></div>
+<div style="background-image:url(pages/04.jpg)" class="item"></div>
+<div style="background-image:url(pages/05.jpg)" class="item"></div>
+<div style="background-image:url(pages/06.jpg)" class="item"></div>
+<div style="background-image:url(pages/07.jpg)" class="item"></div>
+<div style="background-image:url(pages/08.jpg)" class="item"></div>
+<div style="background-image:url(pages/09.jpg)" class="item"></div>
+<div style="background-image:url(pages/10.jpg)" class="item"></div>
+<div style="background-image:url(pages/11.jpg)" class="item"></div>
+<div style="background-image:url(pages/12.jpg)" class="item"></div>
+<div style="background-image:url(pages/13.jpg)" class="item"></div>
+<div style="background-image:url(pages/14.jpg)" class="item"></div>
+<div style="background-image:url(pages/15.jpg)" class="item"></div>
+<div style="background-image:url(pages/16.jpg)" class="item"></div>
+<div style="background-image:url(pages/17.jpg)" class="item"></div>
+<div style="background-image:url(pages/18.jpg)" class="item"></div>
+<div style="background-image:url(pages/19.jpg)" class="item"></div>
+<div style="background-image:url(pages/20.jpg)" class="item"></div>
+<div style="background-image:url(pages/21.jpg)" class="item"></div>
+<div style="background-image:url(pages/22.jpg)" class="item"></div>
+<div style="background-image:url(pages/23.jpg)" class="item"></div>
+<div style="background-image:url(pages/24.jpg)" class="item"></div>
+<div style="background-image:url(pages/25.jpg)" class="item"></div>
+<div style="background-image:url(pages/26.jpg)" class="item"></div>
+<div style="background-image:url(pages/27.jpg)" class="item"></div>
+<div style="background-image:url(pages/28.jpg)" class="item"></div>
+<div style="background-image:url(pages/29.jpg)" class="item"></div>
+<div style="background-image:url(pages/30.jpg)" class="item"></div>
+<div style="background-image:url(pages/31.jpg)" class="item"></div>
+<div style="background-image:url(pages/32.jpg)" class="item"></div>
+<div style="background-image:url(pages/33.jpg)" class="item"></div>
+<div style="background-image:url(pages/34.jpg)" class="item"></div>
+<div style="background-image:url(pages/35.jpg)" class="item"></div>
+<div style="background-image:url(pages/36.jpg)" class="item"></div>
+<div style="background-image:url(pages/37.jpg)" class="item"></div>
+<div style="background-image:url(pages/38.jpg)" class="item"></div>
+<div style="background-image:url(pages/39.jpg)" class="item"></div>
+<div style="background-image:url(pages/40.jpg)" class="item"></div>
+<div style="background-image:url(pages/41.jpg)" class="item"></div>
+<div style="background-image:url(pages/42.jpg)" class="item"></div>
+<div style="background-image:url(pages/43.jpg)" class="item"></div>
+<div style="background-image:url(pages/44.jpg)" class="item"></div>
+<div style="background-image:url(pages/45.jpg)" class="item"></div>
+<div style="background-image:url(pages/46.jpg)" class="item"></div>
+<div style="background-image:url(pages/47.jpg)" class="item"></div>
+<div style="background-image:url(pages/48.jpg)" class="item"></div>
+<div style="background-image:url(pages/49.jpg)" class="item"></div>
+<div style="background-image:url(pages/50.jpg)" class="item"></div>
+<div style="background-image:url(pages/51.jpg)" class="item"></div>
+<div style="background-image:url(pages/52.jpg)" class="item"></div>
+<div style="background-image:url(pages/53.jpg)" class="item"></div>
+<div style="background-image:url(pages/54.jpg)" class="item"></div>
+<div style="background-image:url(pages/55.jpg)" class="item"></div>
+<div style="background-image:url(pages/56.jpg)" class="item"></div>
+<div style="background-image:url(pages/57.jpg)" class="item"></div>
+<div style="background-image:url(pages/58.jpg)" class="item"></div>
+<div style="background-image:url(pages/59.jpg)" class="item"></div>
+<div style="background-image:url(pages/60.jpg)" class="item"></div>
+<div style="background-image:url(pages/61.jpg)" class="item"></div>
+<div style="background-image:url(pages/62.jpg)" class="item"></div>
+<div style="background-image:url(pages/63.jpg)" class="item"></div>
+<div style="background-image:url(pages/64.jpg)" class="item"></div>
+<div style="background-image:url(pages/65.jpg)" class="item"></div>
+<div style="background-image:url(pages/66.jpg)" class="item"></div>
+<div style="background-image:url(pages/67.jpg)" class="item"></div>
+<div style="background-image:url(pages/68.jpg)" class="item"></div>
+<div style="background-image:url(pages/69.jpg)" class="item"></div>
+<div style="background-image:url(pages/70.jpg)" class="item"></div>
+<div style="background-image:url(pages/71.jpg)" class="item"></div>
+<div style="background-image:url(pages/72.jpg)" class="item"></div>
+<div style="background-image:url(pages/73.jpg)" class="item"></div>
+<div style="background-image:url(pages/74.jpg)" class="item"></div>
+<div style="background-image:url(pages/75.jpg)" class="item"></div>
+<div style="background-image:url(pages/76.jpg)" class="item"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+function loadApp() {
+
+    $('#canvas').fadeIn(1000);
+
+    var flipbook = $('.magazine');
+    var cHeight = $(document).height() - $('body').offset().top;
+    cHeight = cHeight - 350;
+    var cWidth = cHeight*1028/700;
+
+    $('.magazine').turn({
+        width: cWidth,
+        height: cHeight,
+        elevation: 50,
+        gradients: true,
+        autoCenter: true
+    });
+}
+</script>
+
+<script src="js/turn.js"></script>
+<script src="js/zoom.min.js"></script>
+<script src="js/magazine.js"></script>
+
+<script>
+$(document).ready(function() {
+
+    loadApp();
+
+    // 다음 페이지
+    $('.next').click(function() {
+        $('.magazine').turn('next');
+    });
+
+    // 이전 페이지
+    $('.prev').click(function() {
+        $('.magazine').turn('previous');
+    });
+
+    // 첫 페이지
+    $('.first').click(function() {
+        $('.magazine').turn('page', 1);
+    });
+
+    // 마지막 페이지
+    $('.last').click(function() {
+        $('.magazine').turn('page', $('.magazine').turn('pages'));
+    });
+
+    // 숫자 입력 후 이동
+
+$('.gotopage').click(function() {
+
+    var page = parseInt($('#topage').val());
+    var totalPages = $('.magazine').turn('pages');
+
+    if (!isNaN(page) && page >= 1 && page <= totalPages) {
+        $('.magazine').turn('page', page);
+    }
+
+});
+
+var isZoomed = false;
+var zoomScale = 1.8;
+
+function zoomIn(){
+    $('.magazine').css({
+        'transform': 'scale(' + zoomScale + ')',
+        'transform-origin': 'center center',
+        'transition': 'transform 0.3s ease',
+        'cursor': 'zoom-out'
+    });
+    isZoomed = true;
+}
+
+function zoomOut(){
+    $('.magazine').css({
+        'transform': 'scale(1)',
+        'cursor': 'default'
+    });
+    isZoomed = false;
+}
+
+function toggleZoom(){
+    if(isZoomed){
+        zoomOut();
+    } else {
+        zoomIn();
+    }
+}
+
+$('.btn_all').click(function(e){
+    e.stopPropagation();
+    toggleZoom();
+});
+
+$('.magazine').click(function(){
+    toggleZoom();
+});
+
+});
+
+</script>
+</body>
+</html>
