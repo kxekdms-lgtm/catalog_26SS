@@ -426,3 +426,18 @@ img {border:none;}
 	bottom:0;
 	width:100%;
 }
+
+/* ===== 책 화면 가운데 정렬 ===== */
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#canvas {
+    width: 100%;
+    display: flex;
+    justify-content: center;   /* 가로 중앙 */
+    align-items: flex-start;   /* 위에서 시작 */
+    padding-top: 20px;         /* 위 네비와 간격 */
+}
