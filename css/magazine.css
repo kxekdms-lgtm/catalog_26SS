@@ -439,5 +439,5 @@ html, body {
     display: flex;
     justify-content: center;   /* 가로 중앙 */
     align-items: flex-start;   /* 위에서 시작 */
-    padding-top: 20px;         /* 위 네비와 간격 */
+    padding-top: 0px;         /* 위 네비와 간격 */
 }
